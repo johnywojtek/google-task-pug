@@ -1,0 +1,14 @@
+{
+        "name": "pug-google-bootstrap",
+        "version": "1.0.0",
+        "description": "iterview task",
+        "main": "app.js",
+        "scripts": {
+                "start": "node app"
+        },
+        "author": "Wojciech John",
+        "license": "ISC",
+        "dependencies": {
+                "express": "^4.16.4"
+        }
+}
